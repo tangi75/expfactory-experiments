@@ -29,13 +29,13 @@
                          "Vanessa Sochat",
                          "Russell Poldrack",
                          "Eric Fimbel",
-						             "Tangi Vass"
+                         "Tangi Vass"
                         ],
         "time":10,
         "reference": ["http://rstb.royalsocietypublishing.org/content/royptb/298/1089/199.full.pdf",
                         "https://www.researchgate.net/publication/11201010_The_Tower_of_London_Spatial_Problem-Solving_Task_Enhancing_Clinical_and_Research_Implementation",
-						"https://sourceforge.net/p/pebl/code-0/HEAD/tree/trunk/battery/tol/TOL.pbl"
-						"https://www.researchgate.net/publication/225085698_Spanish_normative_studies_in_young_adults_NEURONORMA_young_adults_project_Norms_for_Stroop_Color-Word_Interference_and_Tower_of_London-Drexel_University_tests"],
+                        "https://sourceforge.net/p/pebl/code-0/HEAD/tree/trunk/battery/tol/TOL.pbl",
+                        "https://www.researchgate.net/publication/225085698_Spanish_normative_studies_in_young_adults_NEURONORMA_young_adults_project_Norms_for_Stroop_Color-Word_Interference_and_Tower_of_London-Drexel_University_tests"],
         "publish":"True",
         "deployment_variables":{"jspsych_init":
                                         {"fullscreen": true,
